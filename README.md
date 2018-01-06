@@ -161,3 +161,6 @@ Monte Carlo simulation has four stages: Selection, Expansion, Rollout, and Back 
 
 ### Analysis
 The agent uses a Monte Carlo simulation and runs on different parameters. Initial number of simulation taken before picking the next move is five and increments by five for each set of thirty games. The second analysis is similar but with a set of fifty games.
+
+
+![alt text](https://github.com/elasanchez/Mancala-Ai-final/blob/master/Mancala%20Presentation.png)
